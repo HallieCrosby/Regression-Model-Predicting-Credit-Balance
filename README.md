@@ -22,6 +22,9 @@ Using the `Credit.csv` dataset from [ISLR](http://www-bcf.usc.edu/~gareth/ISL/da
 ## Train/Test split
 The data was split into an 80/20 train/test split.
 
+## Model
+A Random Forest Regressor model with 30 trees was used.
+
 ## Accuracy
 The R2 score from the test set was 0.97
 
